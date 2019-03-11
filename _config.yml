@@ -1,0 +1,20 @@
+# Site Settings
+author: DSC
+brand: DSC
+copyright: DSC 
+description: DSC website
+email: example@example.com # TODO: provide a contact email
+title: Data Science Club
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://cmu-dsc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+#git_address: 
+#git_edit_address: 
+
+plugins:
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: _sass
+  style: compressed
