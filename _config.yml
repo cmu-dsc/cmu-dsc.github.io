@@ -23,7 +23,7 @@ description: add description
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
-  Blog: "po"
+  Projects: "po"
   Calendar: "calendar"
   Mailing List: "https://lists.andrew.cmu.edu/mailman/listinfo/cmu-dsc"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
