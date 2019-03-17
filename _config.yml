@@ -25,7 +25,7 @@ navbar-links:
   About: "aboutme"
   Blog: "po"
   Calendar: "calendar"
-#  Resources:
+  Mailing List: "https://lists.andrew.cmu.edu/mailman/listinfo/cmu-dsc"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
