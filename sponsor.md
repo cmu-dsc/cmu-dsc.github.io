@@ -11,4 +11,4 @@ We are proud to be sponsored by
 
 &nbsp; 
 
-![](/img/hrt_logo.png){:class="img-responsive"}
+![](/img/HRT_logo.png){:class="img-responsive"}
