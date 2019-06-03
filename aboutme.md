@@ -5,7 +5,7 @@ subtitle: Meet the Leadership of DSC
 ---
 
 
-| <img src="img/jessica.jpg" alt="drawing" height="180" width="300"/>  | <img src="img/husni.jpg" alt="drawing" width="300"/>  | <img src="img/tony.jpeg" alt="drawing" width="230"/>  |
+| <img src="img/jessica.jpg" alt="Jessica" height="180" width="300"/>  | <img src="img/husni.jpg" alt="Husni" width="300"/>  | <img src="img/tony.jpeg" alt="Tony" width="230"/>  |
 |---|---|---|
 |  **Jessica Lee**  |  **Husni Almoubayyed**  |  **Tony Wang**  |
 |  President of DSC  |  VP of Projects  |  VP of Finance  |
