@@ -14,4 +14,4 @@ subtitle: Meet the Leadership of DSC
 |  **Qiyun Chen**  |  | 
 |  VP of Outreach  |  | 
 |  I am a sophomore studying Statistics and Machine Learning. I am interested in reinforcement learning and applying data science to real world problems. I enjoy the nature and I love meeting people with different cultural backgrounds.
-  |  | 
+  | 
