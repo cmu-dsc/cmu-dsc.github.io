@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Roboto', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -22,10 +22,11 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Cairo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
+  font-family: 'Cairo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: {{ site.link-col }};
 }
 a:hover,
@@ -781,4 +782,22 @@ td.gutter {
   color: #808080;
   font-style: italic;
   font-size: 16px;
+}
+
+.image-crop {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  float: left;  
+}
+
+.image-crop img {
+  width: 100%;
+  height: auto;
+}
+
+.board-row {
+  margin: 30px 0 30px 0; 
 }
