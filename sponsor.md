@@ -7,6 +7,10 @@ Being the largest data science organization at Carnegie Mellon (626 registered m
 
 We are proud to be sponsored by 
 
+![](/img/sig.png){:class="img-responsive"} 
+
+&nbsp; 
+
 ![](/img/janest.png){:class="img-responsive"} 
 
 &nbsp; 
