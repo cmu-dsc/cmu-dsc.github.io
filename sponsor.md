@@ -13,10 +13,3 @@ We are proud to be sponsored by
 
 ![](/img/janest.png){:class="img-responsive"} 
 
-&nbsp; 
-
-![](/img/citadel_logo.png){:class="img-responsive"} 
-
-&nbsp; 
-
-![](/img/HRT_logo.png){:class="img-responsive"}
