@@ -24,6 +24,7 @@ description: add description
 navbar-links:
   About: "aboutme"
   Projects: "po"
+  Data Science Challenges: "https://medium.com/cmu-data-science-club-data-challenges"
   Calendar: "calendar"
   Mailing List: "https://lists.andrew.cmu.edu/mailman/listinfo/cmu-dsc"
   Tutorials: "https://github.com/cmu-dsc/workshops"
