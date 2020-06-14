@@ -12,7 +12,7 @@ subtitle: Meet the Leadership of DSC
     <div class="col-sm-8">
         <h3>Qiyun Chen</h3>
         <h4><i>Co-President of DSC</i></h4>
-         I am a junior studying Statistics and Machine Learning. I am interested in reinforcement learning and applying data science to real world problems. I enjoy the nature and I love meeting people with different cultural backgrounds.
+         I am a junior studying Statistics and Machine Learning. I am interested in reinforcement learning, NLP and applying data science to real world problems. I enjoy music and play the accordion. I love traveling and meeting people from different cultures.
     </div>
 </div>
 
