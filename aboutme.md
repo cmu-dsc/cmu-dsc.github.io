@@ -23,7 +23,7 @@ subtitle: Meet the Leadership of DSC
     <div class="col-sm-8">
         <h3>Owen Mo</h3>
         <h4><i>Co-President of DSC</i></h4>
-         I am a junior studying Artificial Intelligence. I am passionate about machine learning, specifically in the fields of computer vision and reinforcement learning. As a hobby, I really enjoy outdoor activities like hiking and camping.
+         I am a junior studying Computer Science, with a concentration in Machine Learning. I am interested in deep learning research, specifically in attention mechanism and computational neuroscience. 
     </div>
 </div>
 
@@ -39,13 +39,13 @@ subtitle: Meet the Leadership of DSC
 </div>
 
 <div class="row board-row">
-    <!-- <div class="col-sm-4">
-        <div class="image-crop"><img src="{{site.baseurl}}/img/Bonnie.jpg"></div>
-    </div> -->
+    <div class="col-sm-4">
+        <div class="image-crop"><img src="{{site.baseurl}}/img/Raaka.jpg"></div>
+    </div>
     <div class="col-sm-8">
         <h3>Raaka Mukhopadhyay</h3>
         <h4><i>VP of Marketing</i></h4>
-         I am a sophomore studying Statistics and Machine Learning.
+         I am a sophomore studying Statistics and Machine Learning. I’m interested in how we can use data to better understand the world around us. I also like to bake and travel.
     </div>
 </div>
 
