@@ -7,7 +7,7 @@ subtitle: Meet the Leadership of DSC
  
 <div class="row board-row">
     <div class="col-sm-4">
-        <div class="image-crop"><img src="{{site.baseurl}}/img/Bonnie.jpg"></div>
+        <div class="image-crop"><img src="{{site.baseurl}}/img/bonnie.jpg"></div>
     </div>
     <div class="col-sm-8">
         <h3>Bonnie Chan</h3>
@@ -51,19 +51,19 @@ subtitle: Meet the Leadership of DSC
 
 <div class="row board-row">
     <!-- <div class="col-sm-4">
-        <div class="image-crop"><img src="{{site.baseurl}}/img/Max.jpg"></div>
+        <div class="image-crop"><img src="{{site.baseurl}}/img/Meng.jpg"></div>
     </div> -->
     <div class="col-sm-8">
         <h3>Roshan Ram</h3>
         <h4><i>VP of Projects</i></h4>
-         I am a junior studying Information Systems.
+         Hey, I’m Roshan! I’m a junior studying Information Systems, with minors in Machine Learning and Software Engineering.
     </div>
 </div>
 
 <div class="row board-row">
-    <!-- <div class="col-sm-4">
-        <div class="image-crop"><img src="{{site.baseurl}}/img/owen.png"></div>
-    </div> -->
+    <div class="col-sm-4">
+        <div class="image-crop"><img src="{{site.baseurl}}/img/Meng.jpg"></div>
+    </div>
     <div class="col-sm-8">
         <h3>Mengrou Shou</h3>
         <h4><i>VP of Developments</i></h4>
