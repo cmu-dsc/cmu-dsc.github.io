@@ -7,7 +7,7 @@ subtitle: Meet the Leadership of DSC
  
 <div class="row board-row">
     <div class="col-sm-4">
-        <div class="image-crop"><img src="{{site.baseurl}}/img/bonnie.jpg"></div>
+        <div class="image-crop"><img src="{{site.baseurl}}/img/Bonnie.jpg"></div>
     </div>
     <div class="col-sm-8">
         <h3>Bonnie Chan</h3>
