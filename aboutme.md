@@ -50,9 +50,6 @@ subtitle: Meet the Leadership of DSC
 </div>
 
 <div class="row board-row">
-    <!-- <div class="col-sm-4">
-        <div class="image-crop"><img src="{{site.baseurl}}/img/Meng.jpg"></div>
-    </div> -->
     <div class="col-sm-8">
         <h3>Roshan Ram</h3>
         <h4><i>VP of Projects</i></h4>
