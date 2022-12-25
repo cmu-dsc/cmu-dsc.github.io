@@ -5,7 +5,7 @@ subtitle: Meet the Leadership of DSC
 ---
 
  
-<div class="row board-row">
+<!-- <div class="row board-row">
     <div class="col-sm-4">
         <div class="image-crop"><img src="{{site.baseurl}}/img/Bonnie.jpg"></div>
     </div>
@@ -14,9 +14,9 @@ subtitle: Meet the Leadership of DSC
         <h4><i>Co-President of DSC</i></h4>
          I am a junior studying Statistics and Machine Learning. I am interested in data science and making sure it represents the world in a fair way. When I'm not doing data science you'll find me dancing with the INFRA dance company on campus.
     </div>
-</div>
+</div> -->
 
-<div class="row board-row">
+<!-- <div class="row board-row">
     <div class="col-sm-4">
         <div class="image-crop"><img src="{{site.baseurl}}/img/owen.png"></div>
     </div>
@@ -25,9 +25,9 @@ subtitle: Meet the Leadership of DSC
         <h4><i>Co-President of DSC</i></h4>
          I am a junior studying Computer Science, with a concentration in Machine Learning. I am interested in deep learning research, specifically in attention mechanism and computational neuroscience. 
     </div>
-</div>
+</div> -->
 
-<div class="row board-row">
+<!-- <div class="row board-row">
     <div class="col-sm-4">
         <div class="image-crop"><img src="{{site.baseurl}}/img/Fiona.jpg"></div>
     </div>
@@ -36,7 +36,7 @@ subtitle: Meet the Leadership of DSC
         <h4><i>VP of Outreach</i></h4>
          I’m a junior in SCS studying Artificial Intelligence with a minor in Business Administration. I’m interested in machine learning and the information people can learn from data. In my spare time I like to play the flute as well as learn new things.
     </div>
-</div>
+</div> -->
 
 <div class="row board-row">
     <div class="col-sm-4">
@@ -49,13 +49,13 @@ subtitle: Meet the Leadership of DSC
     </div>
 </div>
 
-<div class="row board-row">
+<!-- <div class="row board-row">
     <div class="col-sm-8">
         <h3>Roshan Ram</h3>
         <h4><i>VP of Projects</i></h4>
          Hey, I’m Roshan! I’m a junior studying Information Systems, with minors in Machine Learning and Software Engineering.
     </div>
-</div>
+</div> -->
 
 <div class="row board-row">
     <div class="col-sm-4">
