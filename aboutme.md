@@ -56,6 +56,17 @@ subtitle: Meet the Leadership of DSC
 
 <div class="row board-row">
     <div class="col-sm-4">
+        <div class="image-crop"><img src="{{site.baseurl}}/img/Al.JPG"></div>
+    </div>
+    <div class="col-sm-8">
+        <h3>Almutwakel Hassan</h3>
+        <h4><i>VP of Content</i></h4>
+        I'm a sophomore studying statistics and machine learning. My interests are in artificial intelligence and robotics research. I also enjoy game dev and chess as hobbies!
+    </div>
+</div>
+
+<div class="row board-row">
+    <div class="col-sm-4">
         <div class="image-crop"><img src="{{site.baseurl}}/img/anisha.jpeg"></div>
     </div>
     <div class="col-sm-8">
