@@ -11,7 +11,7 @@ subtitle: Meet the Leadership of DSC
     <div class="col-sm-8">
         <h3>Almutwakel Hassan</h3>
         <h4><i>President</i></h4>
-         I'm a junior majoring in Artificial Intelligence. I’ve worked on research in both robotics and NLP, and I am interested in integrating them. I also enjoy game development, ping pong, and chess!
+         Hello, I'm Al! I'm a junior majoring in Artificial Intelligence. I’ve worked on research in both robotics and NLP, and I am interested in integrating them. I also enjoy game development, ping pong, and chess!
     </div>
 </div>
 
@@ -53,12 +53,12 @@ subtitle: Meet the Leadership of DSC
 
 <div class="row board-row">
     <div class="col-sm-4">
-        <div class="image-crop"><img src="{{site.baseurl}}/img/bgimage.png"></div>
+        <div class="image-crop"><img src="{{site.baseurl}}/img/Eyob.jpg"></div>
     </div>
     <div class="col-sm-8">
         <h3>Eyob Dagnachew</h3>
         <h4><i>Workshops Co-Director</i></h4>
-        -
+        Hello there! My name is Eyob, I'm a junior studying Stat/ml! Some  of those ways I like to and have been working with Data Analysis and ML is through internships, research, and hackathons! other than tech I'm usually trying to find some more artistic outlets for my creativity, resulting in me having my camera and laptop in my backpack almost constantly.
     </div>
 </div>
 
